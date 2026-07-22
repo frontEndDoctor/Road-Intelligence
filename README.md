@@ -6,11 +6,11 @@ By combining multiple datasets, including a crash accident dataset containing hu
 
 There are several existing challenges when using accident datasets to make predictions.
 
--- First, data integration and alignment present a significant obstacle. The Chicago crash dataset and Mapillary’s infrastructure dataset differ in format, scale, temporal resolution, and geographic precision. Matching crash coordinates with nearby traffic signs or signals requires careful spatial preprocessing and geocoding accuracy. 
+- First, data integration and alignment present a significant obstacle. The Chicago crash dataset and Mapillary’s infrastructure dataset differ in format, scale, temporal resolution, and geographic precision. Matching crash coordinates with nearby traffic signs or signals requires careful spatial preprocessing and geocoding accuracy. 
 
--- Second, data completeness and bias may affect model performance. Not all road segments are equally covered by Mapillary imagery, and crash reports may contain missing or inconsistently recorded variables. This can introduce spatial or demographic bias into the predictive model. 
+- Second, data completeness and bias may affect model performance. Not all road segments are equally covered by Mapillary imagery, and crash reports may contain missing or inconsistently recorded variables. This can introduce spatial or demographic bias into the predictive model. 
 
---- Third, causal inference vs. correlation poses an analytical challenge. While machine learning models can detect statistical relationships between signage and pedestrian accidents, distinguishing whether poor signage causes accidents or merely correlates with high-risk environments requires careful interpretation and possibly additional controls.
+- Third, causal inference vs. correlation poses an analytical challenge. While machine learning models can detect statistical relationships between signage and pedestrian accidents, distinguishing whether poor signage causes accidents or merely correlates with high-risk environments requires careful interpretation and possibly additional controls.
 
 This problem is significant because prior work underscores the importance of road infrastructure. 
 
