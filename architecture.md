@@ -1,6 +1,6 @@
-# System Architecture Document: Pedestrian Crash Risk & Policy Simulation System
+# Road Intelligence — Pedestrian Accident Prediction and Prevention Using LLM
 
-**System Name:** Chicago Pedestrian Road Intelligence & Safety Simulation Platform  
+**System Name:** Pedestrian Road Intelligence & Safety Simulation Platform  
 **Document Version:** 1.0.0  
 **Target Domain:** Urban Safety Engineering, Predictive Risk Modeling, Prevention Policy Simulation  
 **Case Study Scope:** Intersections & Road Networks in Chicago, IL  
